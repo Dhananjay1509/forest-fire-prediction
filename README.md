@@ -12,15 +12,15 @@ short_description: Predict forest fire risk using Fire Weather Index (FWI)
 ---
 # Forest Fire Prediction
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+<div align="center">
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-6366F1?style=flat-square&logoColor=white&labelColor=312E81)](https://huggingface.co/spaces/dhananjay1509/forest-fire-prediction)
-[![Python](https://img.shields.io/badge/Python-3.8+-306998?style=flat-square&logo=python&logoColor=white&labelColor=1E375A)](https://www.python.org)
-[![Gradio](https://img.shields.io/badge/Gradio-5.25.2-FF6B6B?style=flat-square&logo=gradio&logoColor=white&labelColor=E64A4A)](https://gradio.app/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-FF8C00?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=E67E00)](https://scikit-learn.org/)
-[![Numpy](https://img.shields.io/badge/Numpy-Latest-4C77CF?style=flat-square&logo=numpy&logoColor=white&labelColor=013243)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Latest-130754?style=flat-square&logo=pandas&logoColor=white&labelColor=0E0439)](https://pandas.pydata.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-00B248?style=flat-square&labelColor=008B3E)](https://opensource.org/licenses/MIT)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗_Spaces-Hugging_Face-blue?style=flat-square)](https://huggingface.co/spaces/dhananjay1509/forest-fire-prediction)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Gradio](https://img.shields.io/badge/Gradio-5.25.2-F37626?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTAgMGg2NHY2NEgweiIgZmlsbD0iI0YzNzYyNiIvPjwvc3ZnPg==)](https://gradio.app/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![NumPy](https://img.shields.io/badge/NumPy-Latest-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-Latest-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![License](https://img.shields.io/badge/License-MIT-00B248?style=flat-square&labelColor=008B3E)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -256,6 +256,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dhananjay Nerkar - nerkarr.dhananjay@gmail.com
 Project Link: [https://github.com/Dhananjay1509/forest-fire-prediction](https://github.com/Dhananjay1509/forest-fire-prediction)
+
 
 
 

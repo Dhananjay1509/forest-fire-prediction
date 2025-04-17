@@ -24,37 +24,6 @@ short_description: Predict forest fire risk using Fire Weather Index (FWI)
 
 </div>
 
-<style>
-/* Badge container styling */
-div[align="center"] {
-    background: linear-gradient(to right, rgba(99, 102, 241, 0.1), rgba(0, 178, 72, 0.1));
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-}
-
-/* Badge hover effects */
-img[src*='shields.io'] {
-    transition: all 0.3s ease;
-}
-
-img[src*='shields.io']:hover {
-    transform: translateY(-2px) scale(1.02);
-    filter: brightness(1.1);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    div[align="center"] {
-        padding: 15px;
-    }
-    img[src*='shields.io'] {
-        margin: 5px;
-    }
-}
-</style>
-
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
@@ -256,6 +225,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dhananjay Nerkar - nerkarr.dhananjay@gmail.com
 Project Link: [https://github.com/Dhananjay1509/forest-fire-prediction](https://github.com/Dhananjay1509/forest-fire-prediction)
+
 
 
 

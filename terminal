@@ -1,0 +1,2 @@
+$env:HUGGING_FACE_HUB_TOKEN = "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"
+huggingface-cli login --add-to-git-credential

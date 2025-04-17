@@ -1,7 +1,8 @@
 # Virtual Environment
 venv/
 env/
-ENV/
+.env/
+.venv/
 
 # Python
 __pycache__/
@@ -24,17 +25,12 @@ wheels/
 .installed.cfg
 *.egg
 
-# IDEs
+# Large files
+*.dll
+*.exe
+*.map
+*.pyc
+
+# IDE
 .idea/
 .vscode/
-*.swp
-*.swo
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db

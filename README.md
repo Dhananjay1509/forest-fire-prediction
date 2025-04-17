@@ -205,17 +205,25 @@ python app.py
 ## 📁 Project Structure
 
 ```
-forestfire-main/
+forest-fire-prediction/
 │
 ├── app.py                 # Main application file
-├── models/
+├── dataset/              # Dataset directory
+├── models/               # Model directory
 │   ├── ridge.pkl         # Trained model
 │   └── scaler.pkl        # Fitted scaler
-├── notebooks/
-│   ├── EDA And FE Algerian Forest Fires       # Analysis notebook
-│   └── Model Training                         # Analysis notebook
-├── requirements.txt      # Dependencies
-└── README.md             # Documentation
+├── notebooks/            # Jupyter notebooks
+├── venv/                 # Virtual environment
+├── demo1.PNG             # Demo screenshots
+├── demo2.PNG
+├── demo3.PNG
+├── deploy.py             # Deployment script
+├── .env.example          # Environment variables template
+├── .gitattributes        # Git LFS configuration
+├── .gitignore           # Git ignore rules
+├── LICENSE              # License file
+├── README.md            # Documentation
+└── requirements.txt     # Dependencies
 ```
 
 ## 🤝 Contributing
@@ -246,6 +254,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dhananjay Nerkar - nerkarr.dhananjay@gmail.com
 Project Link: [https://github.com/Dhananjay1509/forest-fire-prediction](https://github.com/Dhananjay1509/forest-fire-prediction)
+
 
 
 

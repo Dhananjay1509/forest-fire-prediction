@@ -676,7 +676,6 @@ def create_interface():
         logger.error(f"Application startup error: {e}")
         raise
 
-
 if __name__ == "__main__":
     try:
         demo = create_interface()

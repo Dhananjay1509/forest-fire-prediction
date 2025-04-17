@@ -1,8 +1,22 @@
+# Gradio specific
+.gradio/
+.gradio/certificate.pem
+*.pem
+gradio_cached_examples/
+flagged/
+gradio_temp/
+
+# Sensitive Information
+.env                    
+*.key                  
+secrets.json           
+credentials.json       
+
 # Virtual Environment
 venv/
 env/
-.env/
 .venv/
+ENV/
 
 # Python
 __pycache__/
@@ -22,4 +36,6 @@ build/
 # System files
 .DS_Store
 Thumbs.db
+
+
 
